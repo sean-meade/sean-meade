@@ -65,20 +65,15 @@ I love building projects in Django and am looking for the right opportunity as a
  </p>
 
   ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/seanmeadedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
+<div>
+  <a href="https://www.linkedin.com/in/seanmeadedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sean-meade)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-meade&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-meade&show_icons=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sean-meade)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sean-meade)
 
-![GitHub metrics](https://metrics.lecoq.io/sean-meade)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sean-meade)  
-
-![Profile views](https://gpvc.arturio.dev/sean-meade)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sean-meade)
