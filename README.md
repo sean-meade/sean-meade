@@ -1,11 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is Sean
+#### I am a Django developer
+![I am a Django developer]()
 
-## Hi! My name is Sean Meade 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-meade)](https://github.com/anuraghazra/github-readme-stats)
+
+I love building projects in Django and am looking for the right opportunity as a Junior Django developer.
+
+- 🔭 I’m currently working on improving current projects and adding testing. 
+- 🤔 I’m looking for help with finding a junior Django developer role. 
+- 💬 Ask me about any of my projects! 
+
 
 <a href='https://github.com/pricing'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
 </a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -56,7 +64,6 @@
   </a> 
  </p>
 
-  ![sean-meade's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sean-meade&theme=graywhite&hide_border=false)
   ##
  
 <div> 
@@ -64,25 +71,7 @@
 </div>
 
 
-### Hi there 👋, my name is Sean
-#### I am a Django developer
-![I am a Django developer]()
-
-I love building projects in Django and am looking for the right opportunity as a Junior Django developer.
-
-Skills: Django / Python / JS / HTML / CSS
-
-- 🔭 I’m currently working on improving current projects and adding testing. 
-- 🤔 I’m looking for help with finding a junior Django developer role. 
-- 💬 Ask me about any of my projects! 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sean-meade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/seanmeadedev//)  
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=sean-meade)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-meade)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-meade&show_icons=true&count_private=true)  
 
