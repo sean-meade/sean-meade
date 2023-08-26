@@ -2,6 +2,11 @@
 
 ## Hi! My name is Sean Meade 
 
+<a href='https://github.com/pricing'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
+</a>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -51,9 +56,7 @@
   </a> 
  </p>
 
-  ![sean-meade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-meade&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
-  ![sean-meade's Stats](https://github-readme-stats.vercel.app/api?username=sean-meade&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
-  <!--![sean-meade's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sean-meade&theme=graywhite&hide_border=false) -->
+  ![sean-meade's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sean-meade&theme=graywhite&hide_border=false)
   ##
  
 <div> 
@@ -63,7 +66,7 @@
 
 ### Hi there 👋, my name is Sean
 #### I am a Django developer
-![I am a Django developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Django developer]()
 
 I love building projects in Django and am looking for the right opportunity as a Junior Django developer.
 
@@ -76,7 +79,6 @@ Skills: Django / Python / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sean-meade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/seanmeadedev//)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sean-meade)](https://github.com/ryo-ma/github-profile-trophy)
 
