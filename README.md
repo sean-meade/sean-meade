@@ -11,7 +11,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="flask" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQqX699Ii1yOe0IYdJ3SmuIA8DFyIMgRKLQ&usqp=CAU" alt="flask" width="40" height="40"/> 
   </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
