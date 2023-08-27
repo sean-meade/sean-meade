@@ -1,19 +1,5 @@
 ### Hi there 👋, my name is Sean
-#### I am a Django developer
-![I am a Django developer]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-meade)](https://github.com/anuraghazra/github-readme-stats)
-
-I love building projects in Django and am looking for the right opportunity as a Junior Django developer.
-
-- 🔭 I’m currently working on improving current projects and adding testing. 
-- 🤔 I’m looking for help with finding a junior Django developer role. 
-- 💬 Ask me about any of my projects! 
-
-
-<a href='https://github.com/pricing'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
-</a>
+#### I am a Django developer:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -64,6 +50,22 @@ I love building projects in Django and am looking for the right opportunity as a
   </a> 
  </p>
 
+![I am a Django developer]()
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-meade&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-meade)](https://github.com/anuraghazra/github-readme-stats)
+
+I love building projects in Django and am looking for the right opportunity as a Junior Django developer.
+
+- 🔭 I’m currently working on improving current projects and adding testing. 
+- 💬 Ask me about any of my projects! 
+
+<a href='https://github.com/pricing'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
+</a>
+
+
+
   ##
 
 <div>
@@ -72,6 +74,5 @@ I love building projects in Django and am looking for the right opportunity as a
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sean-meade)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-meade&show_icons=true&count_private=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sean-meade)
