@@ -1,5 +1,7 @@
 ## Hi there 👋, my name is Sean
-### I am a Django developer:
+### I am a Django developer
+
+<!-- ![I am a Django developer]() -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -50,8 +52,6 @@
   </a> 
  </p>
 
-![I am a Django developer]()
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-meade&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-meade)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -63,8 +63,6 @@ I love building projects in Django and am looking for the right opportunity as a
 <a href='https://github.com/pricing'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
 </a>
-
-
 
   ##
 
