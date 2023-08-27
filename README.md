@@ -3,6 +3,11 @@
 
 <!-- ![I am a Django developer]() -->
 
+I love building projects in Django and am looking for the right opportunity as a Junior Django developer.
+
+- 🔭 I’m currently working on improving current projects and adding testing. 
+- 💬 Ask me about any of my projects!
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -55,10 +60,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-meade&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-meade)](https://github.com/anuraghazra/github-readme-stats)
 
-I love building projects in Django and am looking for the right opportunity as a Junior Django developer.
-
-- 🔭 I’m currently working on improving current projects and adding testing. 
-- 💬 Ask me about any of my projects!
 
 You can connect with me on <a href="https://www.linkedin.com/in/seanmeadedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
