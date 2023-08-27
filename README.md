@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Sean
-#### I am a Django developer:
+## Hi there 👋, my name is Sean
+### I am a Django developer:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
