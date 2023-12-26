@@ -1,7 +1,5 @@
 ## Hi there 👋, my name is Sean
-### I am a Django developer
 
-<!-- ![I am a Django developer]() -->
 
 I love building projects in Django and am looking for the right opportunity as a Junior Django developer.
 
