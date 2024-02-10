@@ -6,7 +6,7 @@ I love building projects in Django and am looking for the right opportunity as a
 - 🔭 I’m currently working on improving current projects and adding testing. 
 - 💬 Ask me about any of my projects!
 
-You can connect with me on <a href="https://www.linkedin.com/in/seanmeadedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+You can connect with me on <a href="https://www.linkedin.com/in/seanmeadetech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
