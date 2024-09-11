@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Sean
 
 
-I love building projects in Django and am looking for the right opportunity as a Junior Django developer.
+I love building projects in Django and helping people develop their skills and knowledge.
 
 - 🔭 I’m currently working on improving current projects and adding testing. 
 - 💬 Ask me about any of my projects!
