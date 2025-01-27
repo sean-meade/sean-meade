@@ -66,3 +66,5 @@ You can connect with me on <a href="https://www.linkedin.com/in/seanmeadetech/" 
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sean-meade)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sean-meade)](https://git.io/streak-stats)
