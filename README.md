@@ -65,6 +65,4 @@ You can connect with me on <a href="https://www.linkedin.com/in/seanmeadetech/" 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sean-meade)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sean-meade)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sean-meade)](https://git.io/streak-stats)
